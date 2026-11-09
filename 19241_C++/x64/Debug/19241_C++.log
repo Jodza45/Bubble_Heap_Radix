@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C++\main.cpp(186,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  19241_C++.vcxproj -> C:\Users\jovan\jovan\Desktop\bitno\nesto moje\19241_C++\x64\Debug\19241_C++.exe
